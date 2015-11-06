@@ -1,0 +1,23 @@
+name: UnifiedImaging
+favicon: null
+layout_spectrum: 0.9081208982970566
+typography_spectrum: 0.9760015141218901
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.425341077381745
+  lightness: 0.958206087583676
+  saturation: 0.3215473343152553
+  rhythmicContrast: 0.11460668919607997
+purpose: []
