@@ -22,7 +22,7 @@ analytics:
   twitter: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c524856a-6eb8-4e67-ae27-c4703168c93e.eps
-name: UnifiedImaging
+name: Unified Imaging
 cta:
   domain: null
   bucket: null
@@ -30,4 +30,7 @@ cta:
 favicon: null
 title: ''
 description: ''
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:bswift@unified-imaging.com'
+    label: Unify Your Practice
