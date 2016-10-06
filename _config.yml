@@ -1,19 +1,4 @@
-name: UnifiedImaging
-favicon: null
-layout_spectrum: 0.35456
 typography_spectrum: 0.9760015141218901
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,22 @@ color:
   lightness: 0.875
   saturation: 0.75
   rhythmicContrast: 0.75
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.35456
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c524856a-6eb8-4e67-ae27-c4703168c93e.eps
+name: UnifiedImaging
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
